@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="GruvboxMaterialVsPackage .98f06861-e611-4d68-b111-3df2737e2482" Version="1.0" Language="en-US" Publisher="John Yenter-Briars" />
+        <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="1.0" Language="en-US" Publisher="John Yenter-Briars" />
         <DisplayName>gruvbox-material-vs</DisplayName>
-        <Description xml:space="preserve">A port of sainnhe's VS Code Gruvbox Theme extension to Visual Studio.		</Description>
+        <Description xml:space="preserve">A port of sainnhe's VS Code Material Gruvbox Theme extension to Visual Studio.		</Description>
         <MoreInfo>https://github.com/johnyenter-briars/gruvbox-material-vs</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
@@ -23,6 +23,6 @@
     </Prerequisites>
     <Assets>
         <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
-        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="gruvbox-material-vs.pkgdef" />
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="gruvbox-material-dark.pkgdef" />
     </Assets>
 </PackageManifest>

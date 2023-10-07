@@ -32,7 +32,7 @@
         /// <summary>
         /// GruvboxMaterialVsPackage GUID string.
         /// </summary>
-        public const string PackageGuidString = "a849a83e-46f9-4efa-8033-b891ae617a7a";
+        public const string PackageGuidString = "a849a83e-46f9-4efa-8033-b891ae617a7b";
 
         #region Package Members
 
