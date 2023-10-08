@@ -1,4 +1,4 @@
-﻿# Gruvbox-Material for VS
+﻿# Gruvbox-Material for Visual Studio
 
 A port of sainnhe's [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) to Visual Studio, which in turn was inspired by morhetz' original [gruvbox](https://github.com/morhetz/gruvbox) theme for Vim.
 
