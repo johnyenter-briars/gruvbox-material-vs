@@ -6,13 +6,13 @@ Contains 2 themes:
 
 ### gruvbox-material-dark
 - An 'as faithful as possible' port using the [theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs)
-![gruvbox-material-dark](/media/dark-hard.png)
+![gruvbox-material-dark](/media/gruvbox-material-dark.jpg)
 ### gruvbox-material-dark-custom
-- My customizations on top of the original theme
-![gruvbox-material-dark-custom](/media/light-hard.png)
+- My customizations on top of the ported theme
+![gruvbox-material-dark-custom](/media/gruvbox-material-dark-custom.jpg)
 
 ## Acknowledgements
-- This project was inspired by: jekelly's: [gruvboxvs](https://github.com/jekelly/gruvboxvs)
+This project was inspired by jekelly's [gruvboxvs](https://github.com/jekelly/gruvboxvs)
 
 ## Issues?
-Support is limited but if you find issues or bugs, please file an issue. 
+Feel free to open a PR if you see fit :)
