@@ -13,12 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "media", "media", "{EC19BD1D-9D16-4DC7-BB5F-CA7D6CA8907E}"
 	ProjectSection(SolutionItems) = preProject
-		media\dark-hard.png = media\dark-hard.png
-		media\dark-med.png = media\dark-med.png
-		media\dark-soft.png = media\dark-soft.png
-		media\light-hard.png = media\light-hard.png
-		media\light-med.png = media\light-med.png
-		media\light-soft.png = media\light-soft.png
 	EndProjectSection
 EndProject
 Global
