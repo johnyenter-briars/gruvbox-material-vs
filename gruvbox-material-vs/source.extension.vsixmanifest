@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="1.0" Language="en-US" Publisher="John Yenter-Briars" />
         <DisplayName>gruvbox-material-vs</DisplayName>
-        <Description xml:space="preserve">A port of sainnhe's VS Code Material Gruvbox Theme extension to Visual Studio.		</Description>
+        <Description xml:space="preserve">A port of sainnhe's VS Code Gruvbox Material Theme extension to Visual Studio.		</Description>
         <MoreInfo>https://github.com/johnyenter-briars/gruvbox-material-vs</MoreInfo>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
