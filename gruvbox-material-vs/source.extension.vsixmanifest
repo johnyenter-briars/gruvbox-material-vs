@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="0.1.0" Language="en-US" Publisher="John Yenter-Briars" />
+        <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="0.3.0" Language="en-US" Publisher="John Yenter-Briars" />
         <DisplayName>gruvbox-material-vs</DisplayName>
         <Description xml:space="preserve">A port of sainnhe's VS Code Gruvbox Material Theme extension to Visual Studio.		</Description>
         <MoreInfo>https://github.com/johnyenter-briars/gruvbox-material-vs</MoreInfo>
@@ -11,7 +11,22 @@
         <Tags>theme vscode gruvbox vim light dark material</Tags>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
+            <ProductArchitecture>x86</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Community">
+            <ProductArchitecture>x86</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Enterprise">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Pro">
+            <ProductArchitecture>x86</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[16.0,18.0)" Id="Microsoft.VisualStudio.Pro">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
     </Installation>
