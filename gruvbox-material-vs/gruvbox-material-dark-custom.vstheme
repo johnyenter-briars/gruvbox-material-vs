@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-vs (2)" GUID="{56b21f92-6800-47a5-81c7-054cacd60f98}" BaseGUID="{794a9f8a-7716-4d5e-80fc-b5b546a0926f}">
+  <Theme Name="gruvbox-material-dark-custom" GUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}" BaseGUID="{794a9f8a-7716-4d5e-80fc-b5b546a0926f}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -6716,7 +6716,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
       <Color Name="CSS String Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />

@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeFile1" GUID="{884a072b-d250-4062-a376-c7e3eed46bc0}" BaseGUID="{3e46005d-ecdb-4cd8-83eb-492a7fc25501}">
+  <Theme Name="gruvbox-material-dark" GUID="{884a072b-d250-4062-a376-c7e3eed46bc0}" BaseGUID="{3e46005d-ecdb-4cd8-83eb-492a7fc25501}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
