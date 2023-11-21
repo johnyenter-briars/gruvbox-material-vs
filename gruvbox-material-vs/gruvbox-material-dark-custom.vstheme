@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom (9)" GUID="{ce8bb369-d2c8-4667-bf44-fa643f4376ad}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
+  <Theme Name="gruvbox-material-dark-custom (10)" GUID="{b2663af2-4aca-4ce2-8c3d-ed1674cca8e4}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -10385,7 +10385,7 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FFEEEEEE" />
+        <Background Type="CT_RAW" Source="FFE80D0D" />
       </Color>
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
