@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark (2)" GUID="{7f63e821-4676-47ac-9755-3a397c772400}" BaseGUID="{884a072b-d250-4062-a376-c7e3eed46bc0}">
+  <Theme Name="gruvbox-material-dark" GUID="{7f63e821-4676-47ac-9755-3a397c772400}" BaseGUID="{884a072b-d250-4062-a376-c7e3eed46bc0}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -1302,6 +1302,9 @@
       <Color Name="ComboBoxListItemTextDisabled">
         <Background Type="CT_RAW" Source="FF616161" />
       </Color>
+      <Color Name="ComboBoxListItemTextDisabled">
+        <Background Type="CT_RAW" Source="FF616161" />
+      </Color>
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
       <Color Name="Caption">
@@ -1604,6 +1607,13 @@
       </Color>
       <Color Name="TileViewTextDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
+      </Color>
+      <Color Name="StatusBannerWarning">
+        <Background Type="CT_RAW" Source="FFFFF4CE" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBannerWarningBorder">
+        <Foreground Type="CT_RAW" Source="FF9D5D00" />
       </Color>
       <Color Name="StatusBannerWarning">
         <Background Type="CT_RAW" Source="FFFFF4CE" />
@@ -10176,22 +10186,22 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="B2FFFFFF" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillDisabled">
-        <Background Type="CT_RAW" Source="4DF9F9F9" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillQuaternary">
-        <Background Type="CT_RAW" Source="C2F3F3F3" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillSecondary">
-        <Background Type="CT_RAW" Source="80F9F9F9" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillTertiary">
-        <Background Type="CT_RAW" Source="4DF9F9F9" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillTransparent">
-        <Background Type="CT_RAW" Source="00FFFFFF" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlOnImageFillDefault">
         <Background Type="CT_RAW" Source="C9FFFFFF" />
@@ -10242,7 +10252,7 @@
         <Background Type="CT_RAW" Source="37000000" />
       </Color>
       <Color Name="DividerStrokeDefault">
-        <Background Type="CT_RAW" Source="14000000" />
+        <Background Type="CT_RAW" Source="FF5649B0" />
       </Color>
       <Color Name="FocusStrokeInner">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -10287,19 +10297,19 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillQuinary">
-        <Background Type="CT_RAW" Source="FFFDFDFD" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FFEEEEEE" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FFF9F9F9" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00000000" />
@@ -10359,16 +10369,16 @@
         <Background Type="CT_RAW" Source="FFDFF6DD" />
       </Color>
       <Color Name="TextFillDisabled">
-        <Background Type="CT_RAW" Source="5C000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillPrimary">
-        <Background Type="CT_RAW" Source="E4000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillSecondary">
-        <Background Type="CT_RAW" Source="9F000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillTertiary">
-        <Background Type="CT_RAW" Source="72000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextOnAccentFillDisabled">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
@@ -10385,7 +10395,7 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FFEEEEEE" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
@@ -10400,7 +10410,7 @@
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
-        <Background Type="CT_RAW" Source="80FFFFFF" />
+        <Background Type="CT_RAW" Source="FF393737" />
       </Color>
       <Color Name="EnvironmentLayeredBorder">
         <Background Type="CT_RAW" Source="0F000000" />
