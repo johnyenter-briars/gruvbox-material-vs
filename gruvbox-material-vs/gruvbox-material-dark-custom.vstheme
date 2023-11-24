@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom" GUID="{47f04dd0-9400-4d0f-850d-bfafefbb9413}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
+  <Theme Name="gruvbox-material-dark-custom" GUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -10388,7 +10388,7 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="B2FFFFFF" />
+        <Background Type="CT_RAW" Source="FF393737" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF5649B0" />

@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark" GUID="{7f63e821-4676-47ac-9755-3a397c772400}" BaseGUID="{884a072b-d250-4062-a376-c7e3eed46bc0}">
+  <Theme Name="gruvbox-material-dark" GUID="{cf962b09-d514-4714-b439-e8834e6bb127}" BaseGUID="{884a072b-d250-4062-a376-c7e3eed46bc0}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -1302,9 +1302,6 @@
       <Color Name="ComboBoxListItemTextDisabled">
         <Background Type="CT_RAW" Source="FF616161" />
       </Color>
-      <Color Name="ComboBoxListItemTextDisabled">
-        <Background Type="CT_RAW" Source="FF616161" />
-      </Color>
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
       <Color Name="Caption">
@@ -1607,13 +1604,6 @@
       </Color>
       <Color Name="TileViewTextDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
-      </Color>
-      <Color Name="StatusBannerWarning">
-        <Background Type="CT_RAW" Source="FFFFF4CE" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
-      </Color>
-      <Color Name="StatusBannerWarningBorder">
-        <Foreground Type="CT_RAW" Source="FF9D5D00" />
       </Color>
       <Color Name="StatusBannerWarning">
         <Background Type="CT_RAW" Source="FFFFF4CE" />
@@ -10398,7 +10388,7 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="B2FFFFFF" />
+        <Background Type="CT_RAW" Source="FF393737" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF5649B0" />
