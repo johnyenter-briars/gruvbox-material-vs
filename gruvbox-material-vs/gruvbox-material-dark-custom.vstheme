@@ -10287,19 +10287,19 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillQuinary">
-        <Background Type="CT_RAW" Source="FFFDFDFD" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FFEEEEEE" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FFF9F9F9" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00000000" />
@@ -10362,7 +10362,7 @@
         <Background Type="CT_RAW" Source="5C000000" />
       </Color>
       <Color Name="TextFillPrimary">
-        <Background Type="CT_RAW" Source="E4000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillSecondary">
         <Background Type="CT_RAW" Source="9F000000" />
@@ -10385,7 +10385,7 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FFE80D0D" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
