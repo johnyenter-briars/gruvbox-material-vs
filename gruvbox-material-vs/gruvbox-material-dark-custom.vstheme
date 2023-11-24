@@ -10176,22 +10176,22 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillDisabled">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillQuaternary">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillSecondary">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillTertiary">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlFillTransparent">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF4F4D4D" />
       </Color>
       <Color Name="ControlOnImageFillDefault">
         <Background Type="CT_RAW" Source="C9FFFFFF" />
@@ -10400,7 +10400,7 @@
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF393737" />
       </Color>
       <Color Name="EnvironmentLayeredBorder">
         <Background Type="CT_RAW" Source="0F000000" />
