@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom (10)" GUID="{b2663af2-4aca-4ce2-8c3d-ed1674cca8e4}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
+  <Theme Name="gruvbox-material-dark-custom (11)" GUID="{47f04dd0-9400-4d0f-850d-bfafefbb9413}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -10176,7 +10176,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="B2FFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillDisabled">
         <Background Type="CT_RAW" Source="4DF9F9F9" />
@@ -10242,7 +10242,7 @@
         <Background Type="CT_RAW" Source="37000000" />
       </Color>
       <Color Name="DividerStrokeDefault">
-        <Background Type="CT_RAW" Source="14000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="FocusStrokeInner">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -10400,7 +10400,7 @@
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
-        <Background Type="CT_RAW" Source="80FFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="EnvironmentLayeredBorder">
         <Background Type="CT_RAW" Source="0F000000" />
