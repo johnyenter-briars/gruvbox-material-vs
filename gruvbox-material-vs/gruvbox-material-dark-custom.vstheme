@@ -10179,19 +10179,19 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillDisabled">
-        <Background Type="CT_RAW" Source="4DF9F9F9" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillQuaternary">
-        <Background Type="CT_RAW" Source="C2F3F3F3" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillSecondary">
-        <Background Type="CT_RAW" Source="80F9F9F9" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillTertiary">
-        <Background Type="CT_RAW" Source="4DF9F9F9" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillTransparent">
-        <Background Type="CT_RAW" Source="00FFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlOnImageFillDefault">
         <Background Type="CT_RAW" Source="C9FFFFFF" />
@@ -10242,7 +10242,7 @@
         <Background Type="CT_RAW" Source="37000000" />
       </Color>
       <Color Name="DividerStrokeDefault">
-        <Background Type="CT_RAW" Source="FFA2A4A5" />
+        <Background Type="CT_RAW" Source="FF5649B0" />
       </Color>
       <Color Name="FocusStrokeInner">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -10359,16 +10359,16 @@
         <Background Type="CT_RAW" Source="FFDFF6DD" />
       </Color>
       <Color Name="TextFillDisabled">
-        <Background Type="CT_RAW" Source="5C000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillPrimary">
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillSecondary">
-        <Background Type="CT_RAW" Source="9F000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextFillTertiary">
-        <Background Type="CT_RAW" Source="72000000" />
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextOnAccentFillDisabled">
         <Background Type="CT_RAW" Source="B2FFFFFF" />
