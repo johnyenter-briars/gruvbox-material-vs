@@ -1,4 +1,5 @@
 using System;
+using System.Runtime.CompilerServices;
 // See https://aka.ms/new-console-template for more information
 namespace MyNamespace
 {
@@ -26,17 +27,22 @@ namespace MyNamespace
                                         .ToList();
         }
         public double Property { get { return classField; } }
-        public void Credit(double amount)
+        public int Credit(double amount)
         {
             var ten = 10;
             if (amount < 0)
             {
                 throw new ArgumentOutOfRangeException("amount");
             }
+            for (int i = 0; i <= 10; i++)
+            {
+                var foo = "\n test";
+
+            }
             classField += ten;
+
+            return 0;
         }
     }
 }
-
-
 

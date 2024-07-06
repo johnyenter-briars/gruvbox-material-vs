@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom (1)" GUID="{5da7db48-4278-4695-9227-46e9b4ac7708}" BaseGUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}">
+  <Theme Name="gruvbox-material-dark-custom (5)" GUID="{62225239-b639-4356-ba2d-31e10c1e0a76}" BaseGUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -7979,11 +7979,11 @@
       </Color>
       <Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFFD68F" />
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCB9B8E" />
       </Color>
       <Color Name="CppInlineHintsFormat">
         <Background Type="CT_INVALID" Source="00000000" />

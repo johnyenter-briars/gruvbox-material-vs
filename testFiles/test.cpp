@@ -13,7 +13,7 @@ public:
     Person(const std::string& name, int age) : name(name), age(age) {}
 
     virtual void display() const {
-        std::cout << "Name: " << name << ", Age: " << age << std::endl;
+        std::cout << "Name: " << name << ",\n Age: " << age << std::endl;
     }
 
     std::string getName() const {
