@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom (5)" GUID="{62225239-b639-4356-ba2d-31e10c1e0a76}" BaseGUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}">
+  <Theme Name="gruvbox-material-dark-custom (6)" GUID="{e0099d03-c961-4fea-b4bf-1821133bc327}" BaseGUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -7899,7 +7899,7 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA9B665" />
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
