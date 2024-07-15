@@ -1,3 +1,4 @@
+#include <cstddef>
 #include <iostream>
 #include <vector>
 #include <string>
@@ -37,8 +38,14 @@ public:
     }
 };
 
-// Template function
+// c++20 concept
 template <typename T>
+concept displayable = requires(T t) {
+    t.display();
+};
+
+// Template function
+template <displayable T>
 void printVector(const std::vector<T>& vec) {
     for (const auto& item : vec) {
         item.display();
@@ -52,7 +59,12 @@ void sortStudentsByName(std::vector<Student>& students) {
     });
 }
 
+// User-defined literals
+constexpr size_t operator""_len(const char *str, size_t size) { return size; }
+
 int main() {
+    size_t len = "test_string"_len;
+
     // Creating objects
     Person person("John Doe", 45);
     Student student1("Alice Smith", 20, "Computer Science");
