@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom" GUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}" BaseGUID="{bdf43929-66e0-4bc6-a1d8-61455e8b0235}">
+  <Theme Name="gruvbox-material-dark-custom" GUID="{7ea1adb9-fa7f-4054-8898-19eb8306e700}" BaseGUID="{bc67b134-dfd0-4fb0-8c5a-2ac5339201bb}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
