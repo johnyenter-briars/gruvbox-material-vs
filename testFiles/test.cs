@@ -3,6 +3,7 @@ using System.Runtime.CompilerServices;
 // See https://aka.ms/new-console-template for more information
 namespace MyNamespace
 {
+    public static class StaticClass { }
     enum EnumHere { ValueOne, ValueTwo, }
     interface IThisIsAnInterface { }
     /// <summary>
