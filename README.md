@@ -11,8 +11,14 @@ Contains 2 themes:
 - My customizations on top of the ported theme
 ![gruvbox-material-dark-custom](/media/gruvbox-material-dark-custom.jpg)
 
+## Features
+- C# files are themed and consistent
+- **Limited** support for C/C++ files - only under the `gruvbox-material-dark-custom` theme
+
 ## Acknowledgements
 This project was inspired by jekelly's [gruvboxvs](https://github.com/jekelly/gruvboxvs)
 
-## Issues?
-Feel free to open a PR if you see fit :)
+## Contribution
+My time to work on this project is limited - and visual studio's method of building custom themes is a real pain.
+
+If you would like to see a feature add it please free to open a pull request with the changes. 
