@@ -1055,23 +1055,23 @@
       </Color>
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FFA89984" />
-        <Foreground Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonDefault">
         <Background Type="CT_RAW" Source="FFA89984" />
-        <Foreground Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonFocused">
         <Background Type="CT_RAW" Source="FFA89984" />
-        <Foreground Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonPressed">
         <Background Type="CT_RAW" Source="FFA89984" />
-        <Foreground Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonHover">
         <Background Type="CT_RAW" Source="FF928374" />
-        <Foreground Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonBorderHover">
         <Background Type="CT_RAW" Source="FF928374" />
@@ -1309,7 +1309,7 @@
         <Foreground Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="Container">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF292828" />
         <Foreground Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="GridHeadingHoverText">
@@ -1573,7 +1573,7 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="PageBackground">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="StatusBannerErrorBorder">
         <Foreground Type="CT_RAW" Source="FFD53230" />
@@ -7867,11 +7867,11 @@
       </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF8183D3" />
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF89B482" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7947,27 +7947,27 @@
       </Color>
       <Color Name="CppUDLRawSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF30E0E" />
+        <Foreground Type="CT_RAW" Source="FFC9869B" />
       </Color>
       <Color Name="CppUDLNumberSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEF1010" />
+        <Foreground Type="CT_RAW" Source="FFC9869B" />
       </Color>
       <Color Name="CppUDLStringSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFC9869B" />
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE78A4E" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFE78A4E" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF33A891" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_INVALID" Source="00000000" />
