@@ -7738,7 +7738,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_INVALID" Source="FF32302F" />
+        <Background Type="CT_RAW" Source="FF32302F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScrollLineHighlightFormat">
