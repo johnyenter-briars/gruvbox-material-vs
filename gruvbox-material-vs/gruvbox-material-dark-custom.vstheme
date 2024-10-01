@@ -4603,7 +4603,7 @@
         <Background Type="CT_RAW" Source="6045403D" />
       </Color>
       <Color Name="InfoBarBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FF5A524C" />
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="Hyperlink">
