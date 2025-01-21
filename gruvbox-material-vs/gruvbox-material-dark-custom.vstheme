@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="gruvbox-material-dark-custom-chevron (1)" GUID="{28603b1c-9f79-4ba4-9174-4fec1bfa243e}" BaseGUID="{1ea7d464-b590-463d-96b4-8b584ca95d3e}">
+  <Theme Name="gruvbox-material-dark-custom" GUID="{28603b1c-9f79-4ba4-9174-4fec1bfa243e}" BaseGUID="{1ea7d464-b590-463d-96b4-8b584ca95d3e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -4173,11 +4173,11 @@
       </Color>
       <Color Name="outlining.chevron.expanded">
         <Background Type="CT_INVALID" Source="FF292828" />
-        <Foreground Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
         <Background Type="CT_INVALID" Source="FF292828" />
-        <Foreground Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
       </Color>
     </Category>
     <Category Name="GraphDocumentColors" GUID="{0cd5aa2b-ef23-4997-80b5-7d0e8fe5b312}">
@@ -8007,11 +8007,11 @@
       </Color>
       <Color Name="outlining.chevron.expanded">
         <Background Type="CT_RAW" Source="FF292828" />
-        <Foreground Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
       </Color>
       <Color Name="outlining.chevron.collapsed">
         <Background Type="CT_RAW" Source="FF292828" />
-        <Foreground Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
