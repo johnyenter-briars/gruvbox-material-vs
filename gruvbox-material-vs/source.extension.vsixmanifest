@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="0.13.2" Language="en-US" Publisher="jyb" />
+        <Identity Id="gruvbox-material-vs.98f06861-e611-4d68-b111-3df2737e2483" Version="0.13.3" Language="en-US" Publisher="jyb" />
         <DisplayName>gruvbox-material-vs</DisplayName>
         <Description xml:space="preserve">A port of sainnhe's VS Code Gruvbox Material Theme extension to Visual Studio.</Description>
         <MoreInfo>https://github.com/johnyenter-briars/gruvbox-material-vs</MoreInfo>

@@ -14,7 +14,7 @@
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="Chevron">
-        <Foreground Type="CT_RAW" Source="FFD4BE98" />
+        <Foreground Type="CT_RAW" Source="FFF80337" />
       </Color>
       <Color Name="ContentSectionHeader">
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
@@ -4171,6 +4171,14 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
+      </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_INVALID" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
+      </Color>
     </Category>
     <Category Name="GraphDocumentColors" GUID="{0cd5aa2b-ef23-4997-80b5-7d0e8fe5b312}">
       <Color Name="ExpandoButtonBackground">
@@ -7997,6 +8005,14 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
+      </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FF5A524C" />
+      </Color>
     </Category>
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
@@ -8468,6 +8484,9 @@
       </Color>
       <Color Name="IDCardMinimalModeInactiveWindowInactiveText">
         <Background Type="CT_RAW" Source="FF656565" />
+      </Color>
+      <Color Name="ActiveAccountText">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
     <Category Name="UserNotifications" GUID="{5d42b198-efca-431c-92aa-8b595d0d39c2}">
@@ -9303,6 +9322,36 @@
       </Color>
       <Color Name="CardShadow2Pressed">
         <Background Type="CT_RAW" Source="28000000" />
+      </Color>
+      <Color Name="Accent01">
+        <Background Type="CT_RAW" Source="FF5649B0" />
+      </Color>
+      <Color Name="Accent02">
+        <Background Type="CT_RAW" Source="E55649B0" />
+      </Color>
+      <Color Name="Accent03">
+        <Background Type="CT_RAW" Source="CC5649B0" />
+      </Color>
+      <Color Name="Accent04">
+        <Background Type="CT_RAW" Source="4D7160E8" />
+      </Color>
+      <Color Name="Neutral01">
+        <Background Type="CT_RAW" Source="991F1F1F" />
+      </Color>
+      <Color Name="Neutral02">
+        <Background Type="CT_RAW" Source="661F1F1F" />
+      </Color>
+      <Color Name="Neutral03">
+        <Background Type="CT_RAW" Source="331F1F1F" />
+      </Color>
+      <Color Name="Neutral04">
+        <Background Type="CT_RAW" Source="B2FFFFFF" />
+      </Color>
+      <Color Name="Neutral05">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="Neutral06">
+        <Background Type="CT_RAW" Source="CCFFFFFF" />
       </Color>
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
@@ -10819,6 +10868,9 @@
       <Color Name="TextOnAccentFillSelectedText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
+      <Color Name="ControlStrokeTransparent">
+        <Background Type="CT_RAW" Source="00FFFFFF" />
+      </Color>
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
@@ -10871,6 +10923,9 @@
       </Color>
       <Color Name="StatusBarControlFill">
         <Background Type="CT_RAW" Source="20FFFFFF" />
+      </Color>
+      <Color Name="StatusBarTextFillDisabled">
+        <Background Type="CT_RAW" Source="B2FFFFFF" />
       </Color>
     </Category>
     <Category Name="AI" GUID="{7730ec54-ee62-4fd2-86cc-77071aabb206}">
