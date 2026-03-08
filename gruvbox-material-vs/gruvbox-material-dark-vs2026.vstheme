@@ -7532,27 +7532,27 @@
     </Category>
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="Plain Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="D0504945" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF3399FF" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
+        <Foreground Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4A4441" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="urlformat">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="D0504945" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OutputError">
