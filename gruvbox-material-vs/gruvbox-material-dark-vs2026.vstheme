@@ -7883,79 +7883,79 @@
     </Category>
     <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
       <Color Name="AccentFillAlt">
-        <Background Type="CT_RAW" Source="FFD2CCF8" />
+        <Background Type="CT_RAW" Source="FF615560" />
       </Color>
       <Color Name="AccentFillDefault">
-        <Background Type="CT_RAW" Source="FF9184EE" />
+        <Background Type="CT_RAW" Source="FF615560" />
       </Color>
       <Color Name="AccentFillDisabled">
-        <Background Type="CT_RAW" Source="28FFFFFF" />
+        <Background Type="CT_RAW" Source="37000000" />
       </Color>
       <Color Name="AccentFillSecondary">
-        <Background Type="CT_RAW" Source="E59184EE" />
+        <Background Type="CT_RAW" Source="E5615560" />
       </Color>
       <Color Name="AccentFillSelectedTextBackground">
         <Background Type="CT_RAW" Source="FF005FB7" />
       </Color>
       <Color Name="AccentFillSelectedTextBackgroundSubtle">
-        <Background Type="CT_RAW" Source="6660CDFF" />
+        <Background Type="CT_RAW" Source="4D005FB7" />
       </Color>
       <Color Name="AccentFillSenary">
         <Background Type="CT_RAW" Source="1F9184EE" />
       </Color>
       <Color Name="AccentFillTertiary">
-        <Background Type="CT_RAW" Source="CC9184EE" />
+        <Background Type="CT_RAW" Source="CC615560" />
       </Color>
       <Color Name="AccentTextFillDisabled">
-        <Background Type="CT_RAW" Source="5DFFFFFF" />
+        <Background Type="CT_RAW" Source="5C000000" />
       </Color>
       <Color Name="AccentTextFillPrimary">
-        <Background Type="CT_RAW" Source="FFD2CCF8" />
+        <Background Type="CT_RAW" Source="FF3F3682" />
       </Color>
       <Color Name="AccentTextFillSecondary">
-        <Background Type="CT_RAW" Source="FFD2CCF8" />
+        <Background Type="CT_RAW" Source="FF221D46" />
       </Color>
       <Color Name="AccentTextFillTertiary">
-        <Background Type="CT_RAW" Source="FFA79CF1" />
+        <Background Type="CT_RAW" Source="FF615560" />
       </Color>
       <Color Name="CardBackgroundFillDefault">
-        <Background Type="CT_RAW" Source="0DFFFFFF" />
+        <Background Type="CT_RAW" Source="B2FFFFFF" />
       </Color>
       <Color Name="CardBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="08FFFFFF" />
+        <Background Type="CT_RAW" Source="80F6F6F6" />
       </Color>
       <Color Name="CardBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="12FFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CardStrokeDefault">
-        <Background Type="CT_RAW" Source="1A000000" />
+        <Background Type="CT_RAW" Source="0F000000" />
       </Color>
       <Color Name="CardStrokeDefaultSolid">
-        <Background Type="CT_RAW" Source="FF1C1C1C" />
+        <Background Type="CT_RAW" Source="FFEBEBEB" />
       </Color>
       <Color Name="CardStrokeDefaultSolidAlt">
-        <Background Type="CT_RAW" Source="FF0A0A0A" />
+        <Background Type="CT_RAW" Source="FFDADADA" />
       </Color>
       <Color Name="ControlAltFillDisabled">
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlAltFillQuaternary">
-        <Background Type="CT_RAW" Source="12FFFFFF" />
+        <Background Type="CT_RAW" Source="18000000" />
       </Color>
       <Color Name="ControlAltFillSecondary">
-        <Background Type="CT_RAW" Source="1A000000" />
+        <Background Type="CT_RAW" Source="06000000" />
       </Color>
       <Color Name="ControlAltFillTertiary">
-        <Background Type="CT_RAW" Source="0BFFFFFF" />
+        <Background Type="CT_RAW" Source="0F000000" />
       </Color>
       <Color Name="ControlAltFillTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlFillActiveInput">
-        <Background Type="CT_RAW" Source="B21E1E1E" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="0FFFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillDisabled">
         <Background Type="CT_RAW" Source="0BFFFFFF" />
