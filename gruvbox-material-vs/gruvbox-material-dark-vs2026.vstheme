@@ -5247,22 +5247,22 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="FileTabProvisionalSelectedActive">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabSelectedBackground">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabSelectedGradientBottom">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabSelectedGradientTop">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="FileTabIndicatorTextSelectedActive">
         <Background Type="CT_RAW" Source="FFD4BE98" />
@@ -5280,25 +5280,25 @@
         <Background Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="FileTabBorder">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabInactiveBorder">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabInactiveDocumentBorderEdge">
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="FileTabProvisionalHover">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="FileTabProvisionalHoverBorder">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabHotGradientBottom">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="FileTabHotGradientTop">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="AutoHideTabMouseOverText">
         <Background Type="CT_RAW" Source="FFD4BE98" />
@@ -5316,7 +5316,7 @@
         <Background Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="FileTabBackground">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="FileTabDocumentBorderBackground">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -5325,22 +5325,22 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="FileTabInactiveGradientBottom">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="FileTabInactiveGradientTop">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="FileTabProvisionalInactive">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="FileTabProvisionalInactiveBorder">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactive">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="AutoHideTabText">
         <Background Type="CT_RAW" Source="FF7C6F64" />
@@ -5352,19 +5352,19 @@
         <Background Type="CT_RAW" Source="FF7C6F64" />
       </Color>
       <Color Name="FileTabInactiveText">
-        <Background Type="CT_RAW" Source="FF7C6F64" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="FileTabLastActiveText">
-        <Background Type="CT_RAW" Source="FF7C6F64" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="FileTabProvisionalInactiveForeground">
-        <Background Type="CT_RAW" Source="FF7C6F64" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="FileTabProvisionalSelectedInactiveForeground">
-        <Background Type="CT_RAW" Source="FF7C6F64" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="FileTabText">
-        <Background Type="CT_RAW" Source="FF7C6F64" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="FileTabParentText">
         <Background Type="CT_RAW" Source="FF7C6F64" />
@@ -6047,7 +6047,7 @@
         <Background Type="CT_RAW" Source="FF2D2D30" />
       </Color>
       <Color Name="FileTabHotBorder">
-        <Background Type="CT_RAW" Source="FF1C97EA" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="FileTabLastActiveDocumentBorderBackground">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -6059,7 +6059,7 @@
         <Background Type="CT_RAW" Source="FFD0E6F5" />
       </Color>
       <Color Name="FileTabPrimarySeparator">
-        <Background Type="CT_RAW" Source="FF313132" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabScrollBarArrowGlyph">
         <Background Type="CT_RAW" Source="FF686868" />
@@ -6074,7 +6074,7 @@
         <Background Type="CT_RAW" Source="FFEFEBEF" />
       </Color>
       <Color Name="FileTabSecondarySeparator">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="FileTabOverflowTextInactive">
         <Background Type="CT_RAW" Source="FFC0C0C0" />
@@ -8348,10 +8348,10 @@
         <!-- Teal, fixed -->
       </Color>
       <Color Name="EnvironmentTab">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF45403D" />
       </Color>
       <Color Name="EnvironmentTabInactive">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="StatusBarBackgroundFillBuilding">
         <Background Type="CT_RAW" Source="FF3F3682" />
