@@ -3051,23 +3051,23 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="00292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="TextBoxBackgroundDisabled">
-        <Background Type="CT_RAW" Source="00292828" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="TextBoxBackgroundFocused">
-        <Background Type="CT_RAW" Source="00292828" />
+        <Background Type="CT_RAW" Source="FF252423" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FF45403D" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="TextBoxBorderDisabled">
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="TextBoxBorderFocused">
-        <Background Type="CT_RAW" Source="FF45403D" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="TextBoxText">
         <Background Type="CT_RAW" Source="FFD4BE98" />
@@ -7414,11 +7414,11 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="00292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FF45403D" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="TextBoxDisabled">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -7428,8 +7428,8 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="TextBoxFocused">
-        <Background Type="CT_RAW" Source="00292828" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF252423" />
+        <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="TextBoxMouseOverBorder">
         <Background Type="CT_RAW" Source="FF434346" />
@@ -7602,11 +7602,11 @@
         <Background Type="CT_RAW" Source="D0504945" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="00292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
         <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FF45403D" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="TextBoxDisabled">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -7616,10 +7616,10 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="TextBoxMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF434346" />
+        <Background Type="CT_RAW" Source="FF928374" />
       </Color>
       <Color Name="InputFocusBorder">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="EditorContent">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -8073,10 +8073,10 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="ControlFillActiveInput">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF252423" />
       </Color>
       <Color Name="ControlFillDefault">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="ControlFillDisabled">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -8085,10 +8085,10 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ControlFillSecondary">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF3C3836" />
       </Color>
       <Color Name="ControlFillTertiary">
-        <Background Type="CT_RAW" Source="FF292828" />
+        <Background Type="CT_RAW" Source="FF2D2B2A" />
       </Color>
       <Color Name="ControlFillTransparent">
         <Background Type="CT_RAW" Source="FF292828" />
@@ -8109,7 +8109,7 @@
         <Background Type="CT_RAW" Source="FF454545" />
       </Color>
       <Color Name="ControlStrokeDefault">
-        <Background Type="CT_RAW" Source="0F000000" />
+        <Background Type="CT_RAW" Source="12FFFFFF" />
       </Color>
       <Color Name="ControlStrokeForStrongFillWhenOnImage">
         <Background Type="CT_RAW" Source="59FFFFFF" />
@@ -8127,7 +8127,7 @@
         <Background Type="CT_RAW" Source="37000000" />
       </Color>
       <Color Name="ControlStrokeSecondary">
-        <Background Type="CT_RAW" Source="29000000" />
+        <Background Type="CT_RAW" Source="12FFFFFF" />
       </Color>
       <Color Name="ControlStrokeTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
