@@ -4270,7 +4270,7 @@
     <Category Name="ToolTips" GUID="{a9a5637f-b2a8-422e-8fb5-dfb4625f0111}">
       <Color Name="Plain Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
     </Category>
     <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
@@ -4762,12 +4762,11 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ToolTip">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF32302F" />
+        <Foreground Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="ToolTipBorder">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBorder">
         <Background Type="CT_RAW" Source="0045403D" />
@@ -4916,7 +4915,7 @@
         <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="Menu">
-        <Background Type="CT_RAW" Source="FFE7E8EC" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="CommandBarMenuScrollGlyph">
         <Background Type="CT_RAW" Source="FFA89984" />
@@ -8167,10 +8166,10 @@
         <Background Type="CT_RAW" Source="FF005FB8" />
       </Color>
       <Color Name="LayerFillAlt">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="LayerFillDefault">
-        <Background Type="CT_RAW" Source="80FFFFFF" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="ShadowFlyout">
         <Background Type="CT_RAW" Source="24000000" />
@@ -8182,10 +8181,10 @@
         <Background Type="CT_RAW" Source="C9FFFFFF" />
       </Color>
       <Color Name="SolidBackgroundFillBase">
-        <Background Type="CT_RAW" Source="FFF3F3F3" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillBaseAlt">
-        <Background Type="CT_RAW" Source="FFDADADA" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
         <Background Type="CT_RAW" Source="ff322f2e" />
@@ -8291,7 +8290,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SolidBackgroundFillEditor">
-        <Background Type="CT_RAW" Source="FFFAFAFA" />
+        <Background Type="CT_RAW" Source="FF292828" />
       </Color>
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
