@@ -4275,31 +4275,31 @@
     </Category>
     <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
       <Color Name="PopupBackground">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
+        <Background Type="CT_RAW" Source="FF32302F" />
       </Color>
       <Color Name="PopupBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="PopupHyperlink">
-        <Background Type="CT_RAW" Source="FF83BEEB" />
+        <Background Type="CT_RAW" Source="FF7DAEA3" />
       </Color>
       <Color Name="PopupSelectedBackground">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF504945" />
       </Color>
       <Color Name="PopupSelectedText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="PopupShadow">
         <Background Type="CT_RAW" Source="72000000" />
       </Color>
       <Color Name="PopupSubtleText">
-        <Background Type="CT_RAW" Source="FF808080" />
+        <Background Type="CT_RAW" Source="FFA89984" />
       </Color>
       <Color Name="PopupText">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FFD4BE98" />
       </Color>
       <Color Name="PopupLink">
-        <Background Type="CT_RAW" Source="FF006CBE" />
+        <Background Type="CT_RAW" Source="FF7DAEA3" />
       </Color>
     </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
