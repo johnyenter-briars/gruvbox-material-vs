@@ -2,7 +2,7 @@
 
 A port of sainnhe's [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) to Visual Studio, which in turn was inspired by morhetz' original [gruvbox](https://github.com/morhetz/gruvbox) theme for Vim.
 
-Contains 2 themes:
+Contains 3 themes:
 
 ### gruvbox-material-dark
 - An 'as faithful as possible' port using the [theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs)
@@ -10,6 +10,8 @@ Contains 2 themes:
 ### gruvbox-material-dark-custom
 - My customizations on top of the ported theme
 ![gruvbox-material-dark-custom](/media/gruvbox-material-dark-custom.jpg)
+- A port of `gruvbox-material-dark-custom` that should work for Visual Studio 2026
+![gruvbox-material-dark-vs2026](/media/gruvbox-material-dark-custom.jpg)
 
 ## Features
 - C# files are themed and consistent
