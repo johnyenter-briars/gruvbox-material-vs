@@ -10,7 +10,8 @@ Contains 3 themes:
 ### gruvbox-material-dark-custom
 - My customizations on top of the ported theme
 ![gruvbox-material-dark-custom](/media/gruvbox-material-dark-custom.jpg)
-- A port of `gruvbox-material-dark-custom` that should work for Visual Studio 2026
+### gruvbox-material-dark-vs2026
+A port of `gruvbox-material-dark-custom` for Visual Studio 2026. After installing the extension, select **gruvbox-material-dark-vs2026** in the color theme setting (search for **color theme**).
 ![gruvbox-material-dark-vs2026](/media/gruvbox-material-dark-custom.jpg)
 
 ## Features
