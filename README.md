@@ -2,6 +2,8 @@
 
 A port of sainnhe's [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode) to Visual Studio, which in turn was inspired by morhetz' original [gruvbox](https://github.com/morhetz/gruvbox) theme for Vim.
 
+Available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jyb.gruvbox-material-vs).
+
 Contains 3 themes:
 
 ### gruvbox-material-dark
